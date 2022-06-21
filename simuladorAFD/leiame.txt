@@ -1,0 +1,15 @@
+Aluno: Gabriel Henrique Braz
+663739
+
+- Entrada de teste: entrada.jff
+- Saida: caso aceite informado na tela console.
+
+
+-- entrada.jff é um AFD que aceita apenas numero de as pares.
+-- test1.jff é um AFD que aceita qualquer coisa que comece com 10.
+
+
+-- Abrir o programa pelo .bat (trabalho1), pois por algum motivo o
+jar não abre com duplo clique, somente pelo console.
+
+-- O .bat contem apenas a linha java -jar .\simulaAFD.jar
